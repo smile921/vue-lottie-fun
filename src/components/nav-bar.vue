@@ -11,6 +11,18 @@ export default {
           name: 'home',
           title: 'Home',
         },
+        {
+          name: 'lottieApp',
+          title: 'LottieApp',
+        },
+        {
+          name: 'lottieLove',
+          title: 'LottieLove',
+        },
+        {
+          name: 'lottieSpinner',
+          title: 'LottieSpinner',
+        },
       ],
       loggedInNavRoutes: [
         {
